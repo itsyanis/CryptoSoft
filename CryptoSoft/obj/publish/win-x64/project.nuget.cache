@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pwBQU23hYG8wl6Ga463ZYNrLJ8NL5VZY4jXAGzJ5g7d6G75+a/HInOmLA5SYLPKkSQYHRBsDijtWOAziYDRBMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.21\\microsoft.netcore.app.runtime.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.21\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.21\\microsoft.aspnetcore.app.runtime.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

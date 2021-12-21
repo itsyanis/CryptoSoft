@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft.exe
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft.dll
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft.deps.json
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft.runtimeconfig.json
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft.pdb

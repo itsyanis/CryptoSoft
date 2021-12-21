@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft\bin\Release\netcoreapp3.1\win-x64\CryptoSoft.exe
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft\bin\Release\netcoreapp3.1\win-x64\CryptoSoft.deps.json
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft\bin\Release\netcoreapp3.1\win-x64\CryptoSoft.runtimeconfig.json
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft\bin\Release\netcoreapp3.1\win-x64\CryptoSoft.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft\bin\Release\netcoreapp3.1\win-x64\CryptoSoft.dll
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft\bin\Release\netcoreapp3.1\win-x64\CryptoSoft.pdb
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft\obj\Release\netcoreapp3.1\win-x64\CryptoSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft\obj\Release\netcoreapp3.1\win-x64\CryptoSoft.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft\obj\Release\netcoreapp3.1\win-x64\CryptoSoft.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft\obj\Release\netcoreapp3.1\win-x64\CryptoSoft.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft\obj\Release\netcoreapp3.1\win-x64\CryptoSoft.dll
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft\obj\Release\netcoreapp3.1\win-x64\CryptoSoft.pdb
+C:\Users\ASUS\Desktop\CryptoSoft\CryptoSoft\obj\Release\netcoreapp3.1\win-x64\CryptoSoft.genruntimeconfig.cache
