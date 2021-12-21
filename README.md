@@ -1,4 +1,4 @@
 # CryptoSoft
 Encryption software using the Rijndael symmetric encryption algorithm.
 
-the software EasySave 3.0 will have to communicate with Cryptosoft (which is an external software) and to pass to it arguments which are the source and destination. 
+The software EasySave 3.0 will have to communicate with Cryptosoft (which is an external software) and to pass to it arguments which are the source and destination path. 
